@@ -47,7 +47,7 @@ These spatial data contain 20,640 observations on housing prices with 9 economic
 
 # Modeling
 
-Build our Linear Regression modelwith these steps :
+Build our Linear Regression model with these steps :
 
 1- split the data into training and test sets.
 
