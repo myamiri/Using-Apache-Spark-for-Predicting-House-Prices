@@ -49,7 +49,7 @@ These spatial data contain 20,640 observations on housing prices with 9 economic
 
 Build our Linear Regression model with these steps :
 
-1- split the data into training and test sets.
+1- Split the data into training and test sets.
 
 2- Create an ElasticNet model
 
