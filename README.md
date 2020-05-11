@@ -50,12 +50,19 @@ These spatial data contain 20,640 observations on housing prices with 9 economic
 Build our Linear Regression modelwith these steps :
 
 1- split the data into training and test sets.
+
 2- Create an ElasticNet model
+
 3- Fit the data to the model
+
 4- Inspect the Model Co-efficients
+
 5- Generate Predictions
+
 6- Extract the predictions and the "known" correct labels
+
 7- Inspect the Metrics
+
 8- Use the RegressionEvaluator from pyspark.ml package
 
 
