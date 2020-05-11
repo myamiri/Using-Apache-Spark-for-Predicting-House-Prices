@@ -3,14 +3,14 @@
 
 # Summary
 
-1. Understanding the Data Set
-2. Creating the Spark Session
-3. Load The Data From a File Into a Dataframe
-4. Data Exploration
-5. Data Preprocessing
-6. Feature Engineering
-7. Building A Machine Learning Model With Spark ML
-8. Evaluating the Model
+- Understanding the Data Set
+- Creating the Spark Session
+- Load The Data From a File Into a Dataframe
+- Data Exploration
+- Data Preprocessing
+- Feature Engineering
+- Building A Machine Learning Model With Spark ML
+- Evaluating the Model
 
 
 
@@ -49,21 +49,21 @@ These spatial data contain 20,640 observations on housing prices with 9 economic
 
 Build our Linear Regression model with these steps :
 
-1- Split the data into training and test sets.
+-- Split the data into training and test sets.
 
-2- Create an ElasticNet model
+-- Create an ElasticNet model
 
-3- Fit the data to the model
+-- Fit the data to the model
 
-4- Inspect the Model Co-efficients
+-- Inspect the Model Co-efficients
 
-5- Generate Predictions
+-- Generate Predictions
 
-6- Extract the predictions and the "known" correct labels
+-- Extract the predictions and the "known" correct labels
 
-7- Inspect the Metrics
+-- Inspect the Metrics
 
-8- Use the RegressionEvaluator from pyspark.ml package
+-- Use the RegressionEvaluator from pyspark.ml package
 
 
 
